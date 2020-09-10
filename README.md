@@ -14,5 +14,7 @@ You need `npm` and `node` to run this. If you don't have them, check out [this a
 
 `watcher.js` has comments that start with `TODO:` on what you should change to make it work.
 
-To find the index of the class or group that you want, go to the OIS dashboard and see the response to the `autumn` request in the DevTools Network panel.
+To find the index of the class or group that you want, go to the OIS dashboard and see the response to the `autumn` request in the DevTools Network panel — check the screenshot below.
+
+![screenshot](screenshot.png)
 
